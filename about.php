@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="assets/css/about.css" />
 </head>
 
-
 <body>
     <!-- Navigation Bar -->
     <nav class="navbar">
